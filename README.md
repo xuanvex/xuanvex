@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xuanvex/xuanvex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 玄维 · XuanVex
 
-Here are some ideas to get you started:
+### 🌑 `Code · Create · Evolve`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312e81,100:38bdf8&height=120&section=header&text=XUANVEX&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+
+🌌 **Full-Stack Creator** · 🎨 **UI/UX** · ⚡ **Creative Coding**
+
+> 🐉 Building digital worlds with code & imagination.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,java,androidstudio,git&theme=dark" />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-xuanvex-0f172a?style=for-the-badge&logo=github)](https://github.com/xuanvex)
+
+<br>
+
+### 「以代码为笔，探索无限。」
+
+*With code as my brush, I explore the infinite.*
+
+</div>

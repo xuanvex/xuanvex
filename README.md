@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./images/img.png" width="100px" height="100px" alt="✦ XuanVex" />
+
 # 玄维 · XuanVex
 
 ### 🌑 `Code · Create · Evolve`
